@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Major Edmond Rolph, truely stated.</title>
+            <author>Rolph, Edmund.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91957</idno>
+            <idno type="STC">Wing R1890</idno>
+            <idno type="STC">Thomason 669.f.13[8]</idno>
+            <idno type="STC">ESTC R210880</idno>
+            <idno type="EEBO-CITATION">99869633</idno>
+            <idno type="PROQUEST">99869633</idno>
+            <idno type="VID">162903</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162903)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Major Edmond Rolph, truely stated.</title>
+                  <author>Rolph, Edmund.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Dated at end: Gatehouse, August 23. 1648.</note>
+                  <note>Annotation on Thomason copy: "Aug. ye 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Rolph, Edmund --  Imprisonment --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:162903:1" rendition="simple:additions"/>
+            <head>The Caſe of Major Edmond Rolph, truely Stated.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving, to the utmoſt of my underſtanding and ability, with all faithfulneſs, ſerved the Parliament and Kingdom, ever ſince the beginning of the late un<g ref="char:EOLhyphen"/>happy differences, under the Command of the ever to be honored Lieutenant General <hi>Cromwel,</hi> and of late under the Governor of the <hi>Iſle of Wight,</hi> but being there (in the diſcharge of my duty, and by the wickedneſs of perfidious men) rendred a faithleſs man in my duty and truſt, and made not only ſubject to the cruelty of mercileſs men, but the object of many mens hate and malice, to whom the cauſe thereof was not known; and whoſe paſſionate affection, or too eaſie credulity to the lying and falſe ſuggeſtion againſt me, would not give them leave to examine: And leſt the extremities I have ſince ſuffered ſhould beget in them an abſolute concluſion that they have been deſervedly inflicted upon me, and that I may not be judged before the time, I thought my ſelf bound, for their information to publiſh an unfaigned and impartial Relation of the root, growth, and fruits of the conti<g ref="char:EOLhyphen"/>nual occurrences which have hapned to me by means of ſome ill-diſpoſed perſons, which is as followeth;</p>
+            <p>Maſter <hi>Oſbourn</hi> being Gentleman-uſher to the King, and Maſter <hi>Dowcet</hi> Clerk of the Kitchin, with others, had entred into a conſpiracy to betray the perſon of the King out of the protection of the Parliament, and to that end had corrupted ſeveral Soldiers; which was diſcovered to me on the 28. of <hi>May,</hi> 1648. which I immediately told to the Governor: the night following, the time when the ſaid deſign ſhould have been executed: (In order to which <hi>Oſbourn</hi> was gone out of the caſtle to provide Horſes for to convey the King from the place of his reſidence, by the Authority of Parliament; And receiving the Alarum of the diſ<g ref="char:EOLhyphen"/>covery (being neer the Caſtle-wall waiting for the Kings coming down) immediately fled and hid himſelf in ſome ſecret corner for the ſpace of 30 days after, (only <hi>Dowcet</hi> was taken priſoner that night in the Caſtle, and <hi>Floyd,</hi> one of the Soldiers who upon examination confeſſed the truth of every particular touching the ſaid deſign before diſcovered by three other ſol<g ref="char:EOLhyphen"/>diers that were engaged alſo but never mentioned the leaſt word that ever <hi>Oſbourn</hi> or <hi>Dowcet</hi> had ſo much as pretended that the Kings perſon was in danger but ſome days after that the diſcovery was made, the ſaid <hi>Oſbourn</hi> ſent a Letter to the Lord <hi>Wharton,</hi> wherein he did charge me with ſpeaking words to this effect; <hi>viz.</hi> That I ſhould ſay, <hi>That to my knowledg the Governor had received Letters from the Army, intimating that they deſired the King might be removed out of the way by poyſon or otherwiſe, &amp;c.</hi> which Letter the Lord <hi>Wharton</hi> ſent unto Col. <hi>Hammond</hi> the Governor of the <hi>Iſle of Wight.</hi>
+            </p>
+            <p>The Governor having examined <hi>Dowcet</hi> and ſeveral other ſoldiers that were parties in the deſign, <hi>(Dowcet</hi> having affirmed in the preſence of many (as will be proved) that he knew of no ſuch deſign, though the very rope by which the King was to go down was found in his Chamber) ſent them to <hi>London,</hi> where being brought by a guard, and by the way hearing of <hi>Oſbourns</hi> Pamphlet and the Charge contained therein, profeſſed openly that he was confident that there was no ſuch thing as that the Kings life was in danger, neither did he know any thing concerning me, and that he did beleeve <hi>Oſbourn</hi> would never appear to make good his Charge, or if he did appear, yet he would never be ſo wicked as to for<g ref="char:EOLhyphen"/>ſwear himſelf.</p>
+            <p>But <hi>Oſbourn</hi> appearing (having firſt capitulated with the Houſes for a protection from the Laws for his trayterous practiſes as aforeſaid) the ſaid <hi>Dowcet</hi> clean contrary to his for<g ref="char:EOLhyphen"/>mer averments, gave under his hand a paper, wherein he declared that <hi>Oſbourn</hi> had told him, That the Kings life was in danger, &amp;c. And that when he was in priſon, I had in a jeering manner asked him why the King came not down according to appointment, and that I ſhould ſay that I ſtood under the new platform with a piſtol in my hand to receive him; although it will be eaſily proved that I was all that while in my Chamber, until the very time the Governor gave me order to apprehend the ſaid <hi>Dowcet. Oſbourns</hi> Letter comming to the <hi>Iſle of Wight</hi> on Wedneſday 21 of <hi>Iune,</hi> I immediately that night, though I had been ſick a week before by reaſon of an impoſtumation in my lower parts, took my journey toward <hi>London,</hi> and came to the Houſe of Commons on Friday 23. 1648. where at the open Bar I declared what I knew in every particular: from which time I attended upon the Houſe of Lords until Tueſday after, when (by reaſon of that bodily diſtemper then upon me, increaſed by my journey) I was neceſſitated to keep my Chamber, &amp; forbear any further attendance, only leaving Notes of the place of my abode with ſeveral perſons attending the Houſes, in caſe I ſhould be enquired for, as was affirmed by the Speaker of the honorable Houſe of Commons.</p>
+            <p>Upon Tueſday <hi>Iune</hi> 27. the Lords upon theſe falſe informations made an Order for my Attachment and Commitment to the Gatehouſe, <hi>Weſtminſter;</hi> not ſo much as ever calling me before themſelves, or ſending me before any legal Magiſtrate as by Law they ought.</p>
+            <p>
+               <hi>The</hi> day following, being the Faſt day, (though I had received information of their proceedings,) yet I could not receive ſatisfaction concerning the truth thereof, the Houſe not ſit<g ref="char:EOLhyphen"/>ting till <hi>Thurſday,</hi> being the 29. of <hi>Iune.</hi> 1648. On which day I ſent to know the truth thereof: the ſaid warrant being not yet executed upon me, (as I conceive on purpoſe to give me time to run away) hoping that I might prove ſo cowardly as not to ſtand to it, having ſuch great men as the Lords to deal withall, and ſuch a hainous crime as treaſon layd to my charge: But contrary to their expectation on Friday being <hi>Iune</hi> 30. I ſent a Letter to the Lords certifying unto them my condition and place of abode, (which I am confident they knew well enough, though they would take no notice thereof;) and my two Chyrurgions alſo, to the end they might atteſt (as they afterward did) that it was indeed a bodily diſtemper which occaſioned my non-attendance, and nothing elſe. Yet notwithſtanding this clear evidence of my integrity the Lords perſiſted; and their Officers in the execution of their firſt and ſecond Warrant, exerciſed ſuch cruelty as hath not been manifeſted to the Kingdoms greateſt enemies: neither taking notice of the weakneſs of my condition, (atteſted by my Chyrurgions) being not able to turn my ſelf in my bed; nor the invalidity of the Charge brought againſt me by criminal perſons, there being no crime in Law layd to my charge, nor one legal accuſer, inſomuch that my life was by my unſeaſonable removal not only by my ſickneſs, but alſo by the violence of an inconſiderate multitude, to whoſe rage I was ex<g ref="char:EOLhyphen"/>poſed, and from whoſe fury I was with great difficulty by providence preſerved.</p>
+            <p>Being thus cruelly hurried to the Gatehouſe, I was as tyrannically uſed there, having a ſentence of cloſe impriſonment paſſed upon me, by reaſon of which my Wife, Friends, and Chirurgions was kept from me, to the hazard of my utter ruine; where, (had not the Honorable Houſe of Commons timely interpoſed) I had certainly periſhed.</p>
+            <p>Two moneths I have remained a priſoner without either legall Warrant, legall crime, or legall accuſer: And now in order to the further proſecution of their deſign, (not only to ruine me, but alſo to blaſt the repute of the Army and all other wel-affected perſons) they have framed an Indictment upon the ſaid ſcandalous informations, and have ordered the ſame to be tranſmitted to the next Aſſizes held for the County of <hi>Southampton.</hi>
+            </p>
+            <p>Now to the end that you may not be left unſatisfied touching the abſolute illegality of my impriſonment and the invalidity of the Charge, I ſhall offer unto your view theſe following Conſiderations, grounded upon the Laws and Cuſtoms of this Realm:</p>
+            <p n="1">1. If a ſuggeſtion be made to the <hi>King</hi> or his <hi>Councel</hi> of any crime committed, the party ought to be ſent with his <hi>ſuggeſtion</hi> to the Lord <hi>Chancellor</hi> or to the <hi>Iuſtices</hi> of the one <hi>Bench</hi> or the <hi>other,</hi> there to find <hi>ſureties</hi> to proſecute his <hi>ſuggestion,</hi> as appears in the Statute of the 38 of <hi>Edward</hi> the third, <hi>chap.</hi> 9. And foraſmuch as by the <hi>great Charter,</hi> the <hi>Petition of right, &amp;c.</hi> It is enacted <hi>That no Freeman ſhall be taken or impriſoned, or be diſeiſed of his freehold or liberties &amp;c. or be any other way deſtroyed &amp;c. but by the lawful judgment of his Peers, or by the Law of the Land,</hi> viz. <hi>by Indictment or Preſentment before Iuſtices, or matter of Record, or Writ original,</hi> according to the old Law of the Land.</p>
+            <p>Sir <hi>Ed. Cook</hi> in his Expoſition on the 29 chapter of <hi>Magna Charta,</hi> tells us, That by the Law of the Land a man can be taken and impriſoned before <hi>Proſentment</hi> or <hi>Indictment</hi> but two ways; firſt, either by the Kings Writ: or ſecondly, by due proceeding and <hi>Warant,</hi> either in deed or in Law, without Writ; which Writ muſt proceed from ſome <hi>Court of Record:</hi> and the <hi>Warrant</hi> from ſome <hi>lawful Iudg</hi> or <hi>Iuſtice</hi> of the <hi>Peace,</hi> or elſe it cannot be legal. And if this be the Law of the Land, as cannot be denyed, then ſure I am that there hath not been one legal ſtep in all the proceedings againſt me: For firſt my Accuſers were never ſent to any <hi>legal Iudg</hi> or <hi>Iuſtice</hi> to be examined or conſtrained to put in ſecurity as by Law is directed, neither was there ever any legal Writ from any <hi>Court</hi> of <hi>Record</hi> or <hi>legal Warrant</hi> from any <hi>lawful Iudg or Iuſtice,</hi> iſſued out for my Attachment or Impriſon<g ref="char:EOLhyphen"/>ment, neither was I to this day (though I have been a Priſoner two moneths) ever ſo much as ſent for, or <hi>examined,</hi> or had any <hi>particular crime</hi> layd to my charge, being only com<g ref="char:EOLhyphen"/>mitted for <hi>high Treaſon, during pleaſure,</hi> contrary to all Law, and particularly contrary to the Declarations of Parliament, who have declared it <hi>to be againſt the rules of Iuſtice for any man to be impriſoned upon a general Charge, when no particulars are proved againſt him:</hi> Generals being no Crimes in Law.</p>
+            <p>Beſides I ſtand committed during their <hi>pleaſure,</hi> when by Law, all commitments ought to be in order <hi>to a tryal at Law:</hi> But leaving this, I ſhall proceed to examine the matters laid to my charge, <hi>viz.</hi> That I ſhould ſay, <hi>that to my knowledge the Governour had received Letters,</hi> intimating that the <hi>Army</hi> deſired the King ſhould be removed out of the way, <hi>by Poyſon</hi> or otherwiſe, &amp;c. To this Maſter <hi>Osbourn</hi> offereth to depoſe: and Maſter <hi>Dowcet</hi> ſaith, that I did in a jeering manner aske him <hi>why the King came not down according to ap<g ref="char:EOLhyphen"/>pointment;</hi> and that I ſhould likewiſe ſay, <hi>That I ſtood under the</hi> new Platform, <hi>with a Piſtol ready to receive him:</hi> And this the Lords contrary to Law have adjudged <hi>Treaſon,</hi> al<g ref="char:EOLhyphen"/>though it be enacted in the Stattute of the 25. of <hi>Ed.</hi> 3. that in no time to come any thing be adjudged <hi>Treaſon,</hi> but what is litterally contained in the ſaid Statute: Now all offences which are contained in that Statute, may be divided into ſix heads.</p>
+            <p>The firſt concerning death, which is either the compaſſing or imagining the death of the <hi>King, Queen</hi> or <hi>Prince,</hi> and declaring it by ſome <hi>overt deed,</hi> or a killing or murthering ſome Officer of Juſtice in their places doing their offices, as the <hi>Chancellor, Treaſurer,</hi> Juſtices of the one Bench or the other, Juſtices in Oyer, &amp;c.</p>
+            <p>The ſecond kind of Treaſon is the carnal knowing of the <hi>Queen,</hi> the <hi>Kings</hi> eldeſt Daughter, or <hi>Princes</hi> wife.</p>
+            <p>The third is levying War againſt the <hi>King.</hi>
+            </p>
+            <p>The fourth is adhereing to the Kings Enemies, within or without the <hi>Realm,</hi> and declaring it by ſome <hi>overt act.</hi>
+            </p>
+            <p>The fifth is the counterfeiting the great Seal, the privy Seal, or Kings Coyn.</p>
+            <p>The ſixt is bringing in <hi>counterfeit money</hi> to the likenes of the <hi>Kings</hi> Coine: now without an offence be under one of theſe heads it is no High Treaſon: And certain I am there is none of theſe crimes laid to my charge, neither is there any proofe offered of any ſuch thing againſt me.</p>
+            <p>For firſt, <hi>Osbourne</hi> doth not charge me with any deſign to <hi>poyſon the King,</hi> but that I ſhould report that the Governor had Letters intimating that the <hi>Army deſired it:</hi> So that herein (if what he had pretended were true, as it is falſe and ſcandalous,) I did neither <hi>compaſs nor imagine the death of the King,</hi> as having done no <hi>overt deed</hi> tending to that end; and therefore cannot in the leaſt be adjudged guilty of Treaſon by vertue of any Law of the Kingdom, and <hi>where there is no Law, there is no tranſgreſſion.</hi>
+            </p>
+            <p n="2">2. If what M. <hi>Osbourne</hi> did give in charge were Treaſon, yet M. <hi>Osbournes</hi> ſingle Teſtimony were no ſufficient evidence whereby I can be concluded guilty: Since by Law there muſt be two lawful witneſſes ſworn to prove each particular, as appears by the 5. and 6. of <hi>Ed.</hi> 6. <hi>Chap.</hi> 11. The words of the Statute are theſe: No perſon or perſons <hi>after the firſt day of</hi> June <hi>next comming, ſhall be</hi> Indicted, arraigned, condemned, convicted, or attainted <hi>for any of the Treaſons, or Offences aforeſaid, or for any other Treaſons that now be, or hereafter ſhall be perpetrated, committed or done, unleſs the ſame offender, or offenders be thereof accuſed by two lawful accuſers face to face, &amp;c.</hi> Now it is cleerly evident, that there is not one lawful accuſer that appears againſt me; for if thoſe things which they lay to my charge were Treaſon, and I really guilty; yet they knowing thereof, and concealing the ſame for ſome moneths hath made them equally guilty: It being Treaſon by the Law for a perſon or perſons to conceal a Treaſon, as appears in the Statute of the 1. of <hi>Ed.</hi> 6. <hi>Chap.</hi> 12. and 5. &amp; 6. of <hi>Ed.</hi> 6. <hi>Chap.</hi> 11. So that they being perſons concluded under the ſame guilt, cannot in the leaſt be taken as legal wit<g ref="char:EOLhyphen"/>neſſes; for if that were allowable no man could be ſecure; for if the ſingle evidence of a guilty perſon ſhould be valid in Law to conclude innocent men guilty; what man might not a malicious deſperate villain deſtroy by an envious accuſation? therefore the Law requires legal accuſers as providing againſt this evil.</p>
+            <p>And for what M. <hi>Dowcet</hi> ſeems to affirm, is of the ſame nature with that of M. Osbournes, namely, of words ſpoken, and not of deeds done, and comes not in the leaſt under the guilt of Treaſon, if it were true, but it will be ſufficiently proved that there is no truth in it.</p>
+            <p>The Premiſes conſidered, and Circumſtances duly weighed; I hope all men will ceaſe to judg before the time, eſpecially thoſe who ſhall be called judicially to conſider of the premiſes, as knowing that it is againſt the Law of God, Nature or Nations, yea Conſcience it ſelf, for any man to paſs a Cenſure, Sentence or Judgment without good and cleer grounds for the ſame, eſpecially when by ſuch an unconſiderate act, the life of the innocent may be deſtroyed.</p>
+            <closer>
+               <dateline>
+                  <hi>Gatehouſe,</hi> 
+                  <date>Auguſt 23. 1648.</date>
+               </dateline>
+               <signed>Edmond Rolph.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
